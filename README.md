@@ -1,16 +1,7 @@
 # layout1
 
-A new Flutter project.
+Pembelajaran dengan AppBar(), Row(), Column(), Image.asset(), Container(), Text(), ElevatedButton(), ElevatedButton.styleFrom(), MainAxisAlignment <property>, dan setState(() {})
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pada tugas nomor 1 ini, mahasiswa dituntut untuk dapat memelajari penyusunan layout dan melakukan "set stating" seperti yang disinggung oleh Siloam pada setiap pertemuan. Tugas ini dikumpulkan di dalam Google Drive kelas anda masing-masing.
